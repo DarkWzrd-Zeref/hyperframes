@@ -1,0 +1,9 @@
+{
+  "name": "hyperframes-local",
+  "private": true,
+  "description": "Pin for the local HyperFrames CLI. This package has no cloud render script.",
+  "engines": {
+    "node": ">=22"
+  },
+  "hyperframesPin": "0.8.52"
+}
